@@ -2,3 +2,15 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "black-and-light"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[author]
+  name = "Michael Selsky"
+
+[params]
+	sitename = "Mike Selsky"
+	disableWebFonts = false
